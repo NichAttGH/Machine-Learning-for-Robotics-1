@@ -30,7 +30,7 @@ This happens when the test set doesn’t come with the target.
 It’s also important the single units of data are consistent. Since the data set is preprocessed converting every possible level to a specific integer, no one of them should be lesser than one.
 The program needs to know how many different classes it’s going to classify the observations into.
 To do that, it simply count the number of unique values in the target column of the training set.
-In order to compute the likelihood for each possible level of each attribute for every class, the software follows this algorithm: ![Likelihood P(x=v|c) estimation](/posts/path/to/ "Algorithm 1 Likelihood P(x=v|c) estimation")
+In order to compute the likelihood for each possible level of each attribute for every class, the software follows this algorithm: ![Likelihood P(x=v|c) estimation](assignment1/Algorithm_1.png)
 
 Practically, the returned likelihood matrix is a cell matrix with as many
 rows as the number of classes and as many columns as the number of attribute.

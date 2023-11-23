@@ -3,6 +3,7 @@ The assignments are:
 1) Naive Bayes classifier
 2) Linear regression
 3) kNN Classifier
+4) ?
 
 ## 1) Naive Bayes classifier
 The tasks of the I Assignment are:
@@ -91,6 +92,10 @@ Another way could be to create each class subset one by one, and then fuse the 1
 
 #### kNN classifier
 The Nearest Neighbor rule is based on the assumption that observations which
-are close together (in some appropriate metric) will have the same classification.
+are close together (in some appropriate metric) will have the same classification [1].
 In other words, given a training set:
-$$\X = {x<sub>1</sub>, ... , x<sub>l</sub>, ..., x<sub>n</sub>}$$
+
+
+
+## References
+[1] T. Cover and P. Hart, "Nearest neighbor pattern classification," in IEEE Transactions on Information Theory, vol. 13, no. 1, pp. 21-27, January 1967, doi: (https://doi.org/10.1109/TIT.1967.1053964)

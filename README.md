@@ -7,6 +7,6 @@ The assignments are:
 
 For each Assignment, there is a report into each folder that explains what it consists of.
 
-Download here the [mnist](https://2023.aulaweb.unige.it/pluginfile.php/211469/mod_assign/intro/mnist.zip) dataset for the 3° assignment (too big for github)
+Download here the [mnist](https://2023.aulaweb.unige.it/pluginfile.php/211469/mod_assign/intro/mnist.zip) dataset for the 3° and 4° assignments (too big for github)
 
-In updating..
+Each assignment have a single report but there is even a unique final report
